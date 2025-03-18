@@ -13,5 +13,5 @@ Taking CVE-2022-41193 as an arbitrary example, the main files are:
    2. [CVE-2022-41193/CVE-2022-41193_criticism.md](./reports/CVE-2022-41193/CVE-2022-41193_criticism.md)
 3. Resolver agent
    1. [CVE-2022-41193/CVE-2022-41193_resolver_input.md](./reports/CVE-2022-41193/CVE-2022-41193_resolver_input.md)
-   2. [CVE-2022-41193/CVE-2022-41193_**resolution.md**](./reports/CVE-2022-41193/CVE-2022-41193_resolver_input.md)
+   2. [CVE-2022-41193/CVE-2022-41193_**resolution.md**](./reports/CVE-2022-41193/CVE-2022-41193_resolution.md)
       1. **this contains the final assignment**
